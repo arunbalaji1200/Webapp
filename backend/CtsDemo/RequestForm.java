@@ -1,0 +1,1 @@
+{"id":0,"requesttype":"NewLaptop","requestingfor":"self","description":"newlaptop","status":"Open","comments":null,"newlaptop":{"id":1,"model":"Dell","ramsize":"8","capacity":"128","os":"Windows","location":"CBE","requestform":null},"repairlaptop":null}
